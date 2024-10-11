@@ -43,7 +43,25 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 - [Composer,Rhythm,Tempo, Mood, Genre,Tag ... etc] 
 ### Step 5 : Score calculation
 
-## 6. References
+## 6. Result
+- Chopin Fantasie Impromptu Op.66 
+    - origin : ![a1](./mp3/01_origin.mp3)
+    - result : ![a2](./mp3/01_result.mp3)
+  
+- A.Ginastera Danzas Argentinas
+    - origin : ![a3](./mp3/02_origin.mp3)
+    - result : ![a4](./mp3/02_result.mp3)
+  
+- Debussy - Arabesque No.1 in E major
+    - origin : ![a5](./mp3/03_origin.mp3)
+    - result : ![a6](./mp3/03_result.mp3)
+  
+- Mozart: Piano Sonata
+    - origin : ![a7](./mp3/04_origin.mp3)
+    - result : ![a8](./mp3/04_result.mp3)
+
+
+## 7. References
 
 - https://towardsdatascience.com/midi-music-data-extraction-using-music21-and-word2vec-on-kaggle-cb383261cd4e
 - https://github.com/narcode/MIDI_recorder
