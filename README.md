@@ -47,24 +47,65 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 
 ## 6. Result
 - Chopin Fantasie Impromptu Op.66 
-    - origin : https://github.com/user-attachments/assets/07bbab80-d7aa-4f09-9cd1-1913874a6014
-    - result : https://github.com/user-attachments/assets/f0ddd76b-1bb9-41f7-9f14-24005f8779d0
+    - origin :
+ 
+
+https://github.com/user-attachments/assets/5345f480-d0ca-460c-99b0-1c579f08fbb9
+
+
+    - result :
+    
+
+https://github.com/user-attachments/assets/06567ccd-bd72-4371-b9d1-09d08549b588
+
+
   
 - A.Ginastera Danzas Argentinas
-    - origin : https://github.com/user-attachments/assets/2669a8f1-4654-436d-a222-0efea6003262
-    - result : https://github.com/user-attachments/assets/7d22ed1b-0fbd-4610-a07f-91c8a8c1d730
+    - origin :
+ 
+
+https://github.com/user-attachments/assets/4fe8c52f-5849-481b-a18c-5dd904ccbe22
+
+
+
+    - result : 
+
+
+https://github.com/user-attachments/assets/b09b8c10-7c37-4ed3-8807-f2e09ea4dc97
+
+
   
 - Debussy - Arabesque No.1 in E major
-    - origin : https://github.com/user-attachments/assets/3413e371-1deb-4f84-a015-602221fa81e3
+    - origin :
+ 
+
+https://github.com/user-attachments/assets/2ee90c9f-5164-4f63-a10e-7481d7fe7bfb
+
+
+
     - result :
+
+
+
+https://github.com/user-attachments/assets/5996252d-9be3-4744-8beb-832f32dcda7d
 
 
 
 
   
 - Mozart: Piano Sonata
-    - origin : 
+    - origin :
+ 
+
+https://github.com/user-attachments/assets/b80cd7f9-d932-4382-a9a2-b8830d7f336e
+
+
+
     - result : 
+
+
+
+https://github.com/user-attachments/assets/33158c8e-73de-4e3a-8c31-0c7eb2e52e9a
 
 
 ## 7. References
