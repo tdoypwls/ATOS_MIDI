@@ -46,7 +46,9 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 
 
 ## 6. Result
-- Chopin Fantasie Impromptu Op.66 
+It automatically analyzes the style of the song the user is playing, analyzes the components, determines what style the song is, and automatically tunes the tone to match the component.
+
+- Chopin Fantasie Impromptu Op.66 (origin -> result # Piano tone auto tuning)
  
 
 https://github.com/user-attachments/assets/5345f480-d0ca-460c-99b0-1c579f08fbb9
@@ -58,8 +60,8 @@ https://github.com/user-attachments/assets/5345f480-d0ca-460c-99b0-1c579f08fbb9
 https://github.com/user-attachments/assets/06567ccd-bd72-4371-b9d1-09d08549b588
 
 
-  
-- A.Ginastera Danzas Argentinas
+
+- A.Ginastera Danzas Argentinas (origin -> result # Piano tone auto tuning)
 
  
 
@@ -73,7 +75,7 @@ https://github.com/user-attachments/assets/b09b8c10-7c37-4ed3-8807-f2e09ea4dc97
 
 
   
-- Debussy - Arabesque No.1 in E major
+- Debussy - Arabesque No.1 in E major (origin -> result # Automatic tuning from piano to vibraphone)
 
  
 
@@ -91,7 +93,7 @@ https://github.com/user-attachments/assets/5996252d-9be3-4744-8beb-832f32dcda7d
 
 
   
-- Mozart: Piano Sonata
+- Mozart: Piano Sonata (origin -> result # Auto tuning from piano to harpsichord)
 
  
 
