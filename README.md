@@ -43,22 +43,29 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 - [Composer,Rhythm,Tempo, Mood, Genre,Tag ... etc] 
 ### Step 5 : Score calculation
 
+
+
 ## 6. Result
 - Chopin Fantasie Impromptu Op.66 
-    - origin : <audio src="./mp3/01_origin.mp3" controls></audio>
-    - result : <audio src="./mp3/01_result.mp3" controls></audio>
+    - origin : ![a1](./mp3/01_origin.mp3)
+
+https://github.com/user-attachments/assets/07bbab80-d7aa-4f09-9cd1-1913874a6014
+
+
+    - result : ![a2](./mp3/01_result.mp3)
   
 - A.Ginastera Danzas Argentinas
-    - origin : <audio src="./mp3/02_origin.mp3" controls></audio>
-    - result : <audio src="./mp3/02_result.mp3" controls></audio>
+    - origin : ![a3](./mp3/02_origin.mp3)
+    - result : ![a4](./mp3/02_result.mp3)
   
 - Debussy - Arabesque No.1 in E major
-    - origin : <audio src="./mp3/03_origin.mp3" controls></audio>
-    - result : <audio src="./mp3/03_result.mp3" controls></audio>
+    - origin : ![a5](./mp3/03_origin.mp3)
+    - result : ![a6](./mp3/03_result.mp3)
   
 - Mozart: Piano Sonata
-    - origin : <audio src="./mp3/04_origin.mp3" controls></audio>
-    - result : <audio src="./mp3/04_result.mp3" controls></audio>
+    - origin : ![a7](./mp3/04_origin.mp3)
+    - result : ![a8](./mp3/04_result.mp3)
+
 
 ## 7. References
 
