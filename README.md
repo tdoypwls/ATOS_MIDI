@@ -47,13 +47,12 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 
 ## 6. Result
 - Chopin Fantasie Impromptu Op.66 
-    - origin :
  
 
 https://github.com/user-attachments/assets/5345f480-d0ca-460c-99b0-1c579f08fbb9
 
 
-    - result :
+    
     
 
 https://github.com/user-attachments/assets/06567ccd-bd72-4371-b9d1-09d08549b588
@@ -61,14 +60,13 @@ https://github.com/user-attachments/assets/06567ccd-bd72-4371-b9d1-09d08549b588
 
   
 - A.Ginastera Danzas Argentinas
-    - origin :
+
  
 
 https://github.com/user-attachments/assets/4fe8c52f-5849-481b-a18c-5dd904ccbe22
 
 
 
-    - result : 
 
 
 https://github.com/user-attachments/assets/b09b8c10-7c37-4ed3-8807-f2e09ea4dc97
@@ -76,14 +74,14 @@ https://github.com/user-attachments/assets/b09b8c10-7c37-4ed3-8807-f2e09ea4dc97
 
   
 - Debussy - Arabesque No.1 in E major
-    - origin :
+
  
 
 https://github.com/user-attachments/assets/2ee90c9f-5164-4f63-a10e-7481d7fe7bfb
 
 
 
-    - result :
+
 
 
 
@@ -94,14 +92,13 @@ https://github.com/user-attachments/assets/5996252d-9be3-4744-8beb-832f32dcda7d
 
   
 - Mozart: Piano Sonata
-    - origin :
+
  
 
 https://github.com/user-attachments/assets/b80cd7f9-d932-4382-a9a2-b8830d7f336e
 
 
 
-    - result : 
 
 
 
