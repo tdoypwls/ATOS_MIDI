@@ -7,6 +7,8 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 
 - Therefore, we propose a new CNN classification model by combining the idea of ​​measuring harmonic progression similarity via word2vec and the concept of pixelating MIDI time series graphs. The model integrates multidimensional component weights into the analysis results to gain a deeper understanding of the user's playing style and generate customized sound settings that approach human-like adaptability.
 
+- In other words, this model is a system that learns MIDI signals played by the user on a digital piano in real time and can reconstruct and output the optimal VSTI (Virtual Studio Technology instrument).
+
 ## 2. Installation
 - microsoft c++ build tools
 - python-rtmidi
