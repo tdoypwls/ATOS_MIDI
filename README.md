@@ -28,6 +28,7 @@ ATOS MIDI : Automatic tone optimizing system for digital piano using MIDI simila
 
 ## 3. Datasets
 - MIDI data used in this training is not disclosed due to licensing issues. We have included a MIDI_recorder code that receives the user's performance directly as input in real time and uses it as data, and you can create your own dataset using this.
+- Although this is not the data used in this paper, it is okay to use the same dataset as the link. https://github.com/lucasnfe/adl-piano-midi
 
 ## 4. Structure
 ![Structure](./img/1.png)
